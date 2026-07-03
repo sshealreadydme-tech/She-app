@@ -3,7 +3,7 @@ import anthropic
 
 # ================================================
 # ⚠️  COLOCA A TUA CHAVE AQUI
-API_KEY = "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"
+API_KEY ="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"
 # ================================================
 
 st.set_page_config(
